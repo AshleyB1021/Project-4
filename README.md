@@ -1,5 +1,8 @@
 # Diabetes Prediction Project
 
+![DM Prediction Image]("/Users/ashleysmacbook/Desktop/DM Prediction.png")
+
+
 ## Introduction:
 Diabetes affects  over 537 million people around the world , making it the deadliest and the most common non‐communicable disease.  According to the American Diabetes Association (ADA), in 2021, 38.4 million Americans, or 11.6% of the population, had diabetes. Additionally, 1.2 Million Americans are diagnosed with Diabetes every year.
 
