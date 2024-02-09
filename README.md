@@ -12,10 +12,11 @@ This project aims to develop a machine learning model to predict the likelihood 
 The data exploration process involved analyzing the dataset's structure, contents, and statistical properties. Descriptive statistics, visualizations, and exploratory data analysis techniques were used to gain insights into the dataset and identify relevant variables for predictive modeling.
 
 ## Model Development:
-The model development process included data preprocessing, train-test splitting, model selection, training, evaluation, and interpretation. Logistic regression was chosen as the initial model due to its simplicity and interpretability. 
+In the model development phase, we tested two different machine learning algorithms: linear regression and decision tree. Each model underwent data preprocessing, including standardization and train-test splitting, before training and evaluation. 
+
 
 ## Results:
-The developed machine learning model achieved promising performance in predicting diabetes based on health indicators. The model attained an accuracy of 86.59%, indicating its ability to correctly classify individuals as diabetic or non-diabetic. Furthermore, the ROC-AUC score, a measure of the model's ability to distinguish between positive and negative classes, was found to be 82.64%, demonstrating good discrimination ability. Evaluation metrics such as precision, recall, and F1-score were also analyzed to provide a comprehensive assessment of the model's performance. Additionally, feature importance analysis revealed insights into the key factors influencing diabetes prediction, aiding in understanding the underlying relationships between health indicators and diabetes risk. Overall, the results demonstrate the efficacy of the developed model in predicting diabetes and provide valuable insights for healthcare practitioners and researchers.
+The trained models achieved promising results, each demonstrating unique strengths and limitations. The linear regression model achieved an accuracy of 86.59%, with an ROC-AUC score of 0.826. However, it exhibited limitations in capturing non-linear relationships, resulting in lower precision and recall for predicting positive cases (diabetes). On the other hand, the decision tree model achieved an accuracy of 79.86%, with an ROC-AUC score of 0.603. While the decision tree model showed improved performance in capturing non-linear relationships, it had lower overall accuracy compared to the linear regression model. 
 
 ## References:
 
