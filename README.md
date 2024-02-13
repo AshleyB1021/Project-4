@@ -1,7 +1,7 @@
 # Predictive Modling for Diabetes
-_By: Ashley Blake and Rasha Abdalla
+By: Ashley Blake and Rasha Abdalla
 
-![](https://www.pexels.com/photo/blood-sugar-meter-and-medication-on-the-blue-background-6942015/)
+![](https://d2jx2rerrg6sh3.cloudfront.net/image-handler/ts/20221215080726/ri/1350/src/images/news/ImageForNews_733883_16711528404605542.jpg)
 
 
 
