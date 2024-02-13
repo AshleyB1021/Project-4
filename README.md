@@ -1,16 +1,18 @@
-# Predictive Modling for Diabetes
-_By: Ashley Blake and Rasha Abdalla
+# Predictive Modeling for Diabetes
+By: Ashley Blake and Rasha Abdalla
 
-![](https://www.pexels.com/photo/blood-sugar-meter-and-medication-on-the-blue-background-6942015/)
+![](https://d2jx2rerrg6sh3.cloudfront.net/image-handler/ts/20221215080726/ri/1350/src/images/news/ImageForNews_733883_16711528404605542.jpg)
 
-
-
-## Introduction:
-Diabetes affects  over 537 million people around the world , making it the deadliest and the most common non‐communicable disease.  According to the American Diabetes Association (ADA), in 2021, 38.4 million Americans, or 11.6% of the population, had diabetes. Additionally, 1.2 Million Americans are diagnosed with Diabetes every year.
-
-
-## Overview:
+## Purpose: 
 This project aims to develop a machine learning model to predict the likelihood of diabetes based on health indicators from the CDC (Centers for Disease Control and Prevention) dataset. By analyzing various health-related factors, we seek to build a predictive model that can assist healthcare professionals in identifying individuals at higher risk of developing diabetes.
+
+## Introduction and Overview:
+Diabetes affects  over 537 million people around the world , making it the deadliest and the most common non‐communicable disease.  According to the American Diabetes Association (ADA), in 2021, 38.4 million Americans, or 11.6% of the population, had diabetes. Additionally, 1.2 Million Americans are diagnosed with Diabetes every year. Early detection plays a pivotal role in managing and mitigating its adverse effects. By employing a robust predictor model, individuals at risk can be identified preemptively, allowing for timely interventions such as lifestyle modifications, dietary adjustments, or medical treatments. Moreover, such a model empowers healthcare providers to prioritize resources efficiently, streamline patient care, and allocate preventive measures to high-risk populations. Furthermore, from a societal perspective, the implementation of a diabetes predictor model can lead to substantial cost savings by reducing healthcare expenses associated with diabetes-related complications and improving overall health outcomes. Therefore, the development and deployment of a diabetes predictor model represent a proactive approach towards promoting public health, enhancing healthcare delivery, and ultimately, fostering a healthier and more resilient population.
+
+## Dataset:
+We utilized a clean dataset sourced from the UCI Machine Learning Repository, originally compiled from CDC health indicators. Given the dataset's cleanliness and organization, extensive analysis of statistical properties and visualization was not required. Instead, we focused on leveraging the existing dataset to identify pertinent variables for predictive modeling, streamlining the exploratory data analysis process.
+
+## Technologies Used:
 
 
 ## Data Exploration:
