@@ -34,7 +34,7 @@ In the model development phase, we tested two different machine learning algorit
 ##### Precision and Recall: It showed balanced precision and recall scores for both classes, with precision and recall values around 0.30 to 0.34 for the diabetic class and 0.89 to 0.87 for the non-diabetic class.
 ##### Feature Importance: The decision tree model provided insights into feature importance, indicating which health indicators were most influential in predicting diabetes.
 ##### Interpretability: Decision trees are interpretable models, allowing for easy understanding of the decision-making process.
-
+![image](Visualizations/LogisticRegression_RocCurve.png)
 ## References:
 
 ### Dataset
