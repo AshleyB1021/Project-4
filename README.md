@@ -29,7 +29,10 @@ In the model development phase, we tested two different machine learning algorit
 ##### Mean Squared Error and R-squared: The mean squared error (MSE) was 0.134, and the R-squared (R2) was -0.128, indicating that the model did not fit the data well and had limited predictive power.
 
 #### Decision Tree:
+![image](Visualizations/Confusion%20Matrix_Decision%20Tree.png)
 
+
+ 
 ##### Accuracy: The decision tree model achieved an accuracy of 79.86%, which is lower than logistic regression.
 ##### Precision and Recall: It showed balanced precision and recall scores for both classes, with precision and recall values around 0.30 to 0.34 for the diabetic class and 0.89 to 0.87 for the non-diabetic class.
 ##### Feature Importance: The decision tree model provided insights into feature importance, indicating which health indicators were most influential in predicting diabetes.
