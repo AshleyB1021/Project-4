@@ -15,7 +15,17 @@ Diabetes affects  over 537 million people around the world , making it the deadl
 * Which health indicators are most strongly associated with diabetes risk?
 * How do different machine learning models compare in predicting diabtes?
 * Can we use the models to identify individuals at a high risk of diabetes for targeted interventions?
+
+## Tools & Libraries Used:
+
+* Jupyter Notebook
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+* Scikit-learn (sklearn)
   
+
 
 ## Dataset, Source and Exploration:
 We utilized a clean dataset sourced from the UCI Machine Learning Repository, originally compiled from CDC health indicators. The dataset contained 253,680 rows (instances) and 21 columns (features), providing ample data for analysis. Given the dataset's cleanliness and organization, extensive analysis of statistical properties and visualization was not required. Instead, we focused on leveraging the existing dataset to identify pertinent variables for predictive modeling, streamlining the exploratory data analysis process.
@@ -101,3 +111,13 @@ In the random forest model, we achieved an accuracy of 85.98%. The confusion mat
 ## Conclusion:
 
 In conclusion, our analysis of three different machine learning models for predicting diabetes yielded varying levels of performance. The logistic regression model exhibited the highest accuracy at 86.59%, with an ROC-AUC score of 82.64%. However, its performance in correctly identifying individuals with diabetes (precision and recall) was relatively low compared to other models. The decision tree model achieved an accuracy of 79.86% and a ROC-AUC score of 60.28%, indicating moderate predictive capability. On the other hand, the random forest model demonstrated an accuracy of 85.98%, with a slightly lower ROC-AUC score of 80.15%. Although random forest performed better than the decision tree, its precision and recall for identifying diabetes cases were also suboptimal. Overall, while logistic regression showed the highest overall accuracy, it may not be the most effective model for accurately identifying individuals with diabetes. Further refinement and exploration of alternative modeling techniques could enhance the predictive performance of the models and improve diabetes prediction accuracy.
+
+
+## Things We Could Have Done Differently:
+
+Model Selection - In addition to the logistic regression, decision tree, and random forest models, further testing could have been conducted. 
+
+Additional models could have included:
+
+* Support Vector Machines (SVM)
+* K- Nearest Neighbors (KNN)
