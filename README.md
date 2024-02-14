@@ -24,7 +24,17 @@ In the model development phase, we tested two different machine learning algorit
 #### Logistic Regression:
 
 ##### Accuracy: Logistic regression achieved an accuracy of 86.59%, indicating that it correctly predicted the likelihood of diabetes in 86.59% of cases.
-##### Precision and Recall: It showed a higher precision for the non-diabetic class (precision of 88%) compared to the diabetic class (precision of 55%), indicating that when it predicted an instance as non-diabetic, it was correct 88% of the time. However, the recall (true positive rate) for the diabetic class was low at 17%, indicating that it correctly identified only 17% of the actual diabetic cases.
+##### Precision and Recall: It showed a higher precision for the non-diabetic class (precision of 88%) compared to the diabetic class (precision of 55%), indicating that when it predicted an instance as non-diabetic, it was correct 88% of the time. However, the recall (true positive rate) for the diabetic class was low at 17%, indicating that it correctly identified only 17% of the actual diabetic cases. 
+##Logistic Regression 
+![image](Visualizations/Feature_Importance_LogisticRegression.png)
+
+
+
+
+
+
+
+
 ##### ROC-AUC Score: The ROC-AUC score, which measures the model's ability to distinguish between positive and negative classes, was 0.826, suggesting a good performance.
 ##### Mean Squared Error and R-squared: The mean squared error (MSE) was 0.134, and the R-squared (R2) was -0.128, indicating that the model did not fit the data well and had limited predictive power.
 
