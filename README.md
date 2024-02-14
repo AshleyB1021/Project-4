@@ -55,7 +55,7 @@ In the logistic regression model, we achieved an accuracy of 86.59%. The confusi
 
                                     Feature Importance 
                       
-![image](https://github.com/AshleyB1021/Project-4/blob/40f1b1222c207a38d7e2170088a9fb19b93ce5a9/Visualizations/Roc%20Curve_Logistic%20Regression.png) 
+![image](https://github.com/AshleyB1021/Project-4/blob/50c717ce652b222caf607eeaa9a11d857d8fe5ae/Visualizations/ROCCurve_Logistic%20Regression.png) 
 
                                      ROC Curve    
 
