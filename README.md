@@ -49,11 +49,19 @@ In the model development phase, we tested three different machine learning algor
 
 #### Random Forest: 
 
+In the random forest model, we achieved an accuracy of 85.98%. The confusion matrix reveals that out of 50,736 instances, 42,402 were correctly predicted as not having diabetes, while 1,219 were correctly predicted as having diabetes. However, there were 5,778 false negatives and 1,337 false positives. The classification report shows that the model has a high precision of 0.88 for the negative class (no diabetes) but a lower precision of 0.48 for the positive class (diabetes). The recall is 0.97 for the negative class and 0.17 for the positive class, indicating that the model is better at identifying non-diabetic cases. The ROC-AUC score of 0.80 suggests that the model performs reasonably well in distinguishing between the two classes. 
+
 ![image](https://github.com/AshleyB1021/Project-4/blob/1619dfe29e9ad934ce600a79679ca7d6775a8eac/Visualizations/Feauture%20Importance_Random%20Tree.png)
+                     
+                                                 Feature Importance
 
 ![image](https://github.com/AshleyB1021/Project-4/blob/1619dfe29e9ad934ce600a79679ca7d6775a8eac/Visualizations/Confusion%20Matrix_%20Random%20Forest.png)
+
+                                             Confusion Matrix
+
 ![image](https://github.com/AshleyB1021/Project-4/blob/40f1b1222c207a38d7e2170088a9fb19b93ce5a9/Visualizations/ROC%20Curve_Random%20Forest.png)
 
+                                                    ROC Curve
 
 
 
