@@ -121,3 +121,12 @@ Additional models could have included:
 
 * Support Vector Machines (SVM)
 * K- Nearest Neighbors (KNN)
+
+
+## Future Analysis:
+
+Conducting a more in-depth feature engineering process could enhance model performance. Exploring interaction terms or creating new features based on domain knowledge could reveal hidden patterns. Additionally, experimenting with different model configurations, such as tuning hyperparameters or using ensemble techniques, may improve predictive accuracy.
+
+## Additional Resources:
+
+![American Diabetes Association](https://diabetes.org/about-diabetes)
