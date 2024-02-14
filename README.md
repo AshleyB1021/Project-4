@@ -17,7 +17,7 @@ We utilized a clean dataset sourced from the UCI Machine Learning Repository, or
 
 
 ## Model Development:
-In the model development phase, we tested two different machine learning algorithms: logistic regression and decision tree. Each model underwent data preprocessing, including standardization and train-test splitting, before training and evaluation. 
+In the model development phase, we tested three different machine learning algorithms: logistic regression, decision tree, and random forest. Each model underwent data preprocessing, including standardization and train-test splitting, before training and evaluation. Logistic regression was chosen for its simplicity and interpretability, while the decision tree was selected for its ability to handle non-linear relationships. The random forest model was included for its ensemble learning capabilities, which can improve predictive performance by combining multiple decision trees. These models were evaluated based on accuracy, confusion matrix, classification report, and ROC-AUC score to determine their effectiveness in predicting diabetes
 
 
 ## Results:
@@ -44,4 +44,4 @@ In the model development phase, we tested two different machine learning algorit
 ##### Feature Importance: The decision tree model provided insights into feature importance, indicating which health indicators were most influential in predicting diabetes.
 ##### Interpretability: Decision trees are interpretable models, allowing for easy understanding of the decision-making process.
 
-
+## Conclusion:
