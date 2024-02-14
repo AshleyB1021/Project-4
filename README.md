@@ -33,8 +33,8 @@ We utilized a clean dataset sourced from the UCI Machine Learning Repository, or
 ![image](https://github.com/AshleyB1021/Project-4/blob/1cbd6ea6cbae89ef01753ad4ae7dc2a314e7d7ef/Visualizations/Images/Data%20screenshot.png)
 
 
-* [UCI Machine Learning Repository] (https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators)
-* [Original CDC Dataset Link] (https://www.cdc.gov/brfss/annual_data/annual_2014.html)
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators)
+* [Original CDC Dataset Link](https://www.cdc.gov/brfss/annual_data/annual_2014.html)
 
 
 ## Model Development:
@@ -129,4 +129,4 @@ Conducting a more in-depth feature engineering process could enhance model perfo
 
 ## Additional Resources:
 
-![American Diabetes Association](https://diabetes.org/about-diabetes)
+[American Diabetes Association](https://diabetes.org/about-diabetes)
