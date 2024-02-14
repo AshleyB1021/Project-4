@@ -28,12 +28,19 @@ In the model development phase, we tested three different machine learning algor
 ## Results:
 #### Logistic Regression:
 
+In the logistic regression model, we achieved an accuracy of 86.59%. The confusion matrix indicates that out of 50,736 instances, 42,775 were correctly classified as not having diabetes, while 1,157 were correctly classified as having diabetes. However, there were 5,840 false negatives and 964 false positives. The classification report shows a high precision of 0.88 for the negative class (no diabetes) but a lower precision of 0.55 for the positive class (diabetes). The recall is 0.98 for the negative class and 0.17 for the positive class, suggesting that the model is better at identifying non-diabetic cases. The ROC-AUC score of 0.83 indicates that the model performs reasonably well in distinguishing between the two classes. However, the mean squared error of 0.13 and the negative R-squared value suggest that the model may not be the best fit for the data, and further refinement or alternative models may be considered for improved performance.
+
 ![image](Visualizations/Feature_Importance_LogisticRegression.png)
 
+                                    Feature Importance
+                      
 ![image](https://github.com/AshleyB1021/Project-4/blob/40f1b1222c207a38d7e2170088a9fb19b93ce5a9/Visualizations/Roc%20Curve_Logistic%20Regression.png) 
+
+                                          ROC Curve
 
 ![image](https://github.com/AshleyB1021/Project-4/blob/1619dfe29e9ad934ce600a79679ca7d6775a8eac/Visualizations/Confusion%20Matrix_Logistic%20Regression.png) 
 
+                           Confusion Matrix
 
 #### Decision Tree:
 
