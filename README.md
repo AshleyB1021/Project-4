@@ -38,14 +38,4 @@ In the model development phase, we tested two different machine learning algorit
 ##### Feature Importance: The decision tree model provided insights into feature importance, indicating which health indicators were most influential in predicting diabetes.
 ##### Interpretability: Decision trees are interpretable models, allowing for easy understanding of the decision-making process.
 ![image](Visualizations/LogisticRegression_RocCurve.png)
-## References:
 
-### Dataset
-
-https://www.cdc.gov/brfss/annual_data/annual_2014.html
-
-https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
-
-### (American Diabetes Association)
-
-https://diabetes.org/about-diabetes/statistics/about-diabetes#:~:text=Overall%20numbers,of%20the%20population%2C%20had%20diabetes.&text=Diagnosed%20and%20undiagnosed%3A%20Of%20the,and%208.7%20million%20were%20undiagnosed.
