@@ -12,6 +12,9 @@ Diabetes affects  over 537 million people around the world , making it the deadl
 ## Dataset, Source and Exploration:
 We utilized a clean dataset sourced from the UCI Machine Learning Repository, originally compiled from CDC health indicators. The dataset contained 253,680 rows (instances) and 21 columns (features), providing ample data for analysis. Given the dataset's cleanliness and organization, extensive analysis of statistical properties and visualization was not required. Instead, we focused on leveraging the existing dataset to identify pertinent variables for predictive modeling, streamlining the exploratory data analysis process.
 
+![image](https://github.com/AshleyB1021/Project-4/blob/1cbd6ea6cbae89ef01753ad4ae7dc2a314e7d7ef/Visualizations/Images/Data%20screenshot.png)
+
+
 * [UCI Machine Learning Repository] (https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators)
 * [Original CDC Dataset Link] (https://www.cdc.gov/brfss/annual_data/annual_2014.html)
 
@@ -19,6 +22,7 @@ We utilized a clean dataset sourced from the UCI Machine Learning Repository, or
 ## Model Development:
 In the model development phase, we tested three different machine learning algorithms: logistic regression, decision tree, and random forest. Each model underwent data preprocessing, including standardization and train-test splitting, before training and evaluation. Logistic regression was chosen for its simplicity and interpretability, while the decision tree was selected for its ability to handle non-linear relationships. The random forest model was included for its ensemble learning capabilities, which can improve predictive performance by combining multiple decision trees. These models were evaluated based on accuracy, confusion matrix, classification report, and ROC-AUC score to determine their effectiveness in predicting diabetes
 
+![image](https://github.com/AshleyB1021/Project-4/blob/1cbd6ea6cbae89ef01753ad4ae7dc2a314e7d7ef/Visualizations/Images/Code%20Screenshot.png)
 
 ## Results:
 #### Logistic Regression:
