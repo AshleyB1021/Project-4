@@ -7,7 +7,7 @@ By: Ashley Blake and Rasha Abdalla
 This project aims to develop a machine learning model to predict the likelihood of diabetes based on health indicators from the CDC (Centers for Disease Control and Prevention) dataset. By analyzing various health-related factors, we seek to build a predictive model that can assist healthcare professionals in identifying individuals at higher risk of developing diabetes.
 
 ## Introduction and Overview:
-Diabetes affects  over 537 million people around the world , making it the deadliest and the most common non‐communicable disease.  According to the American Diabetes Association (ADA), in 2021, 38.4 million Americans, or 11.6% of the population, had diabetes. Additionally, 1.2 Million Americans are diagnosed with Diabetes every year. Early detection plays a pivotal role in managing and mitigating its adverse effects. By employing a robust predictor model, individuals at risk can be identified preemptively, allowing for timely interventions such as lifestyle modifications, dietary adjustments, or medical treatments. Moreover, such a model empowers healthcare providers to prioritize resources efficiently, streamline patient care, and allocate preventive measures to high-risk populations. Furthermore, from a societal perspective, the implementation of a diabetes predictor model can lead to substantial cost savings by reducing healthcare expenses associated with diabetes-related complications and improving overall health outcomes. Therefore, the development and deployment of a diabetes predictor model represent a proactive approach towards promoting public health, enhancing healthcare delivery, and ultimately, fostering a healthier and more resilient population.
+Diabetes affects  over 537 million people around the world , making it the deadliest and the most common non‐communicable disease.  According to the American Diabetes Association (ADA), in 2021, 38.4 million Americans, or 11.6% of the population, had diabetes. Additionally, 1.2 Million Americans are diagnosed with Diabetes every year. Early detection plays a pivotal role in managing and mitigating its adverse effects. By employing a robust predictor model, individuals at risk can be identified proactively, allowing for timely interventions such as lifestyle modifications, dietary adjustments, or medical treatments. Moreover, such a model empowers healthcare providers to prioritize resources efficiently, streamline patient care, and allocate preventive measures to high-risk populations. Furthermore, from a societal perspective, the implementation of a diabetes predictor model can lead to substantial cost savings by reducing healthcare expenses associated with diabetes-related complications and improving overall health outcomes. Therefore, the development and deployment of a diabetes predictor model represent a proactive approach towards promoting public health, enhancing healthcare delivery, and ultimately, fostering a healthier and more resilient population.
 
 ## Questions We Hope to Answer:
 
@@ -33,12 +33,13 @@ We utilized a clean dataset sourced from the UCI Machine Learning Repository, or
 ![image](https://github.com/AshleyB1021/Project-4/blob/1cbd6ea6cbae89ef01753ad4ae7dc2a314e7d7ef/Visualizations/Images/Data%20screenshot.png)
 
 
-* [UCI Machine Learning Repository] (https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators)
-* [Original CDC Dataset Link] (https://www.cdc.gov/brfss/annual_data/annual_2014.html)
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators)
+* [Original CDC Dataset Link](https://www.cdc.gov/brfss/annual_data/annual_2014.html)
 
 
 ## Model Development:
-In the model development phase, we tested three different machine learning algorithms: logistic regression, decision tree, and random forest. Each model underwent data preprocessing, including standardization and train-test splitting, before training and evaluation. Logistic regression was chosen for its simplicity and interpretability, while the decision tree was selected for its ability to handle non-linear relationships. The random forest model was included for its ensemble learning capabilities, which can improve predictive performance by combining multiple decision trees. These models were evaluated based on accuracy, confusion matrix, classification report, and ROC-AUC score to determine their effectiveness in predicting diabetes
+
+In the model development phase, we explored three distinct machine learning algorithms: logistic regression, decision tree, and random forest. Prior to training and evaluation, each model underwent essential data preprocessing steps, including standardization and train-test splitting. Logistic regression, known for its simplicity and interpretability, was chosen to provide a clear understanding of the factors influencing diabetes prediction. The decision tree model was incorporated for its ability to capture complex, nonlinear relationships within the data. Additionally, the random forest model, known for its ensemble learning approach, was employed to enhance predictive performance by aggregating insights from multiple decision trees. These models were rigorously assessed using metrics such as accuracy, confusion matrix, classification report, and ROC-AUC score to determine their effectiveness in predicting diabetes.
 
 ![image](https://github.com/AshleyB1021/Project-4/blob/1cbd6ea6cbae89ef01753ad4ae7dc2a314e7d7ef/Visualizations/Images/Code%20Screenshot.png)
 ![image](https://github.com/AshleyB1021/Project-4/blob/f453dc83845d6c63ddbbc426858161d1ce331bbf/Visualizations/Images/Code%20Snippet.png) 
@@ -129,4 +130,4 @@ Conducting a more in-depth feature engineering process could enhance model perfo
 
 ## Additional Resources:
 
-![American Diabetes Association](https://diabetes.org/about-diabetes)
+[American Diabetes Association](https://diabetes.org/about-diabetes)
