@@ -30,7 +30,7 @@ In the model development phase, we tested three different machine learning algor
 
 ![image](Visualizations/Feature_Importance_LogisticRegression.png)
 
-![image](Visualizations/LogisticRegression_RocCurve.png) 
+![image](https://github.com/AshleyB1021/Project-4/blob/40f1b1222c207a38d7e2170088a9fb19b93ce5a9/Visualizations/Roc%20Curve_Logistic%20Regression.png) 
 
 ![image](https://github.com/AshleyB1021/Project-4/blob/1619dfe29e9ad934ce600a79679ca7d6775a8eac/Visualizations/Confusion%20Matrix_Logistic%20Regression.png) 
 
@@ -52,7 +52,7 @@ In the model development phase, we tested three different machine learning algor
 ![image](https://github.com/AshleyB1021/Project-4/blob/1619dfe29e9ad934ce600a79679ca7d6775a8eac/Visualizations/Feauture%20Importance_Random%20Tree.png)
 
 ![image](https://github.com/AshleyB1021/Project-4/blob/1619dfe29e9ad934ce600a79679ca7d6775a8eac/Visualizations/Confusion%20Matrix_%20Random%20Forest.png)
-
+![image](https://github.com/AshleyB1021/Project-4/blob/40f1b1222c207a38d7e2170088a9fb19b93ce5a9/Visualizations/ROC%20Curve_Random%20Forest.png)
 
 
 
