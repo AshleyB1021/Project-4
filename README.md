@@ -67,10 +67,6 @@ In the logistic regression model, we achieved an accuracy of 86.59%. The confusi
 
 In the decision tree model, we achieved an accuracy of 79.86%. The confusion matrix reveals that out of 50,736 instances, 38,172 were correctly classified as not having diabetes, while 2,345 were correctly classified as having diabetes. However, there were 4,652 false negatives and 5,567 false positives. The classification report shows a high precision of 0.89 for the negative class (no diabetes) but a lower precision of 0.30 for the positive class (diabetes). The recall is 0.87 for the negative class and 0.34 for the positive class, indicating that the model is better at identifying non-diabetic cases. The ROC-AUC score of 0.60 suggests that the model's ability to distinguish between the two classes is modest. 
 
-![image](https://github.com/AshleyB1021/Project-4/blob/1619dfe29e9ad934ce600a79679ca7d6775a8eac/Visualizations/Decision%20Tree.png)
-
-                                        Decision Tree
-
 ![image](https://github.com/AshleyB1021/Project-4/blob/1619dfe29e9ad934ce600a79679ca7d6775a8eac/Visualizations/Feature%20Importance_Decision%20Tree.png)
 
                                                 Feature Importance
